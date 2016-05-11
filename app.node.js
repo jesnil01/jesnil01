@@ -802,7 +802,7 @@ module.exports =
             "Work at ",
             _react2["default"].createElement(
               "a",
-              { href: "#" },
+              { href: "https://rodolfo.se", target: "_blank" },
               "Rodolfo"
             ),
             "."
@@ -819,7 +819,7 @@ module.exports =
             _react2["default"].createElement(
               "small",
               null,
-              "Other keywords: HTML5, Sass, Gulp, webpack, Git, Angular, PHP, WordPress"
+              "Other keywords: HTML5, Sass, Gulp, webpack, Git, PHP, WordPress"
             )
           )
         );
